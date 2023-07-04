@@ -16,15 +16,15 @@ export const ProjectList = [
         detail: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet con etiam. Lorem ipsum dolor sit amet con etiam",
     },
     {
-        name: "Simple Game 3D Endless Runner",
+        name: "Simple API CRUD Using Golang",
         image: Proj3,
-        skills: "C#",
+        skills: "Golang",
         detail: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet con etiam. Lorem ipsum dolor sit amet con etiam",
     },
     {
-        name: "Credit Calculation Android Application",
+        name: "Test Coding Kitalulus",
         image: Proj4,
-        skills: "Java",
+        skills: "Golang",
         detail: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet con etiam. Lorem ipsum dolor sit amet con etiam",
     },
     {
@@ -34,9 +34,9 @@ export const ProjectList = [
         detail: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet con etiam. Lorem ipsum dolor sit amet con etiam",
     },
     {
-        name: "YANG INI GATAU APAAN",
+        name: "Simple Credit Calculation App",
         image: Proj4,
-        skills: "HTML, CSS, JavaScript",
+        skills: "Java",
         detail: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet con etiam. Lorem ipsum dolor sit amet con etiam",
     },
 ];
