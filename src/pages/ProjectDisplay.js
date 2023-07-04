@@ -17,7 +17,7 @@ function ProjectDisplay() {
     <h4>
       {project.detail}
     </h4>
-    <a href='https://github.com/Sherdderz'target="_blank" rel="noreferrer"><GithubIcon/></a>
+    <a href='https://github.com/Sherdderz?tab=repositories'target="_blank" rel="noreferrer"><GithubIcon/></a>
   </div>
   );
 }
