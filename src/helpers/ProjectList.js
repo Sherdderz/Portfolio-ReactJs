@@ -1,4 +1,5 @@
 import script from "../assets/script.png";
+import api from "../assets/api.png";
 import yarts1 from "../assets/yarts/yarts1.png";
 import helmify3 from "../assets/helmify/helmify3.png";
 export const ProjectList = [
@@ -16,7 +17,7 @@ export const ProjectList = [
     },
     {
         name: "Simple API CRUD Using Golang",
-        image: script,
+        image: api,
         skills: "Golang",
         detail: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet con etiam. Lorem ipsum dolor sit amet con etiam",
     },
@@ -26,17 +27,17 @@ export const ProjectList = [
         skills: "LUA",
         detail: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet con etiam. Lorem ipsum dolor sit amet con etiam",
     },
-    // {
-    //     name: "",
-    //     image: Proj4,
-    //     skills: "-",
-    //     detail: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet con etiam. Lorem ipsum dolor sit amet con etiam",
-    // },
-    // {
-    //     name: "Simple Credit Calculation App",
-    //     image: Proj4,
-    //     skills: "Java",
-    //     detail: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet con etiam. Lorem ipsum dolor sit amet con etiam",
-    // },
+    {
+        name: "Simple Credit Calculation App",
+        image: api,
+        skills: "Java",
+        detail: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet con etiam. Lorem ipsum dolor sit amet con etiam",
+    },
+    {
+        name: "-",
+        image: api,
+        skills: "-",
+        detail: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet con etiam. Lorem ipsum dolor sit amet con etiam",
+    },
 ];
 
