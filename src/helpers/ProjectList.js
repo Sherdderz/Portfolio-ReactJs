@@ -40,7 +40,7 @@ export const ProjectList = [
         name: "Endless Runner Unity 3D",
         image: game,
         skills: "C# & Unity 3D",
-        detail: "lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet con etiam. Lorem ipsum dolor sit amet con etiam",
+        detail: "Endless Runner made using Unity 3D, it has 3 levels playable",
     },
 ];
 
